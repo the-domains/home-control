@@ -27,10 +27,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.fibaro.com/en/the-fibaro-system/swipe'
 title: Swipe | Fibaro - Z-Wave smart home solution
-datePublished: '2016-06-24T22:44:17.713Z'
-dateModified: '2016-06-24T22:44:17.512Z'
+datePublished: '2016-06-24T22:44:22.228Z'
+dateModified: '2016-06-24T22:44:21.762Z'
 sourcePath: _posts/2016-06-24-swipe-or-fibaro-z-wave-smart-home-solution.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
