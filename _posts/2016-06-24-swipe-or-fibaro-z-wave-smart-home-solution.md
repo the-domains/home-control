@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-24T22:50:15.089Z'
+datePublished: '2016-06-24T22:51:36.164Z'
 sourcePath: _posts/2016-06-24-swipe-or-fibaro-z-wave-smart-home-solution.md
 isBasedOnUrl: 'http://www.fibaro.com/en/the-fibaro-system/swipe'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - micro
 related: []
 author: []
-dateModified: '2016-06-24T22:49:59.693Z'
+dateModified: '2016-06-24T22:51:35.823Z'
 title: Swipe | Fibaro - Z-Wave smart home solution
 app_links: []
 publisher:
@@ -30,7 +30,7 @@ description: >-
   recognizing intentional gestures and ignoring random ones. Battery or Micro
   USB powered. SWIPE is perfect in every detail.
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
