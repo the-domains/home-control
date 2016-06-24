@@ -1,16 +1,16 @@
 typography_spectrum: 0.5281796474009752
 color:
-  brandStrength: 0.9683619462884963
-  lightness: 0.5547906421124935
-  saturation: 0.9327250740025192
-  rhythmicContrast: 0.1663343533873558
+  brandStrength: 0.854946899227798
+  lightness: 0.6533168733585626
+  saturation: 0.32531887921504676
+  rhythmicContrast: 0.6521594487130642
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-layout_spectrum: 0.3790594993624836
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+layout_spectrum: 0.6572272630874068
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7964d60f-1a07-4887-934b-7f7bac5a8c1c.png
 name: Home Contol
