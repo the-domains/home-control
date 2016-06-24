@@ -28,10 +28,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.yankodesign.com/2016/06/16/in-the-b-link-of-an-eye/'
 title: In the B.Link of an Eye
-datePublished: '2016-06-24T16:57:41.793Z'
-dateModified: '2016-06-24T16:57:41.497Z'
+datePublished: '2016-06-24T16:59:24.957Z'
+dateModified: '2016-06-24T16:59:24.639Z'
 sourcePath: _posts/2016-06-24-in-the-blink-of-an-eye.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
