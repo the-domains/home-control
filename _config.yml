@@ -1,0 +1,14 @@
+layout_spectrum: 0.3790594993624836
+typography_spectrum: 0.5281796474009752
+color:
+  brandStrength: 0.9683619462884963
+  lightness: 0.5547906421124935
+  saturation: 0.9327250740025192
+  rhythmicContrast: 0.1663343533873558
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Home Control
