@@ -1,4 +1,3 @@
-layout_spectrum: 0.3790594993624836
 typography_spectrum: 0.5281796474009752
 color:
   brandStrength: 0.9683619462884963
@@ -11,4 +10,8 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.3790594993624836
 name: Home Control
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/baeddf18-d87d-45aa-befe-df6ce0371dfd.png
+title: Interior Tech Designers
