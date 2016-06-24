@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Interior Tech Designers]]></title>
         <description><![CDATA[Interior Tech Designers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/home-control/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 17:24:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 17:34:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/home-control/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SONOS]]></title>
+            <description><![CDATA[<article><h1>SONOS</h1><p>Con la aplicación Sonos Controller puedes reproducir música en todas las habitaciones de tu casa, controlar la cola de canciones y hacer búsquedas rápidas en todos los servicios de música al mismo tiempo.</p></article>]]></description>
+            <link>http://www.sonos.com/es-mx/controller-app</link>
+            <guid isPermaLink="false">602a4599-a662-4042-984e-21c37af3f3ee</guid>
+            <pubDate>Fri, 24 Jun 2016 17:34:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Control de Acceso “By Tech”]]></title>
             <description><![CDATA[<article><h1>Control de Acceso “By Tech”</h1><p>Los controles de acceso.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60b30f78-4218-4460-8d38-e4a28fc4791c.png"></article>]]></description>
